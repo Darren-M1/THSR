@@ -1,9 +1,4 @@
 # -*- coding: UTF-8 -*-
-import imghdr
-from PIL import Image
-import pytesseract
-from ast import Delete
-from lib2to3.pgen2 import driver
 import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
